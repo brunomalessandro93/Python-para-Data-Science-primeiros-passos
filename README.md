@@ -1,2 +1,2 @@
 # Tabela Simples
-Calculo de Salário e média entre os funcionários e Manipulação de dados.
+Calculo de Salário,média entre os funcionários e Manipulação de dados.
