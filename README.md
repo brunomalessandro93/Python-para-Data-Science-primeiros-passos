@@ -1,2 +1,2 @@
 # Tabela Simples
-Calculo de Salário entre os funcionários
+Calculo de Salário e média entre os funcionários.
