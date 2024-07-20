@@ -1,2 +1,2 @@
-# Tabela_Simples
+# Tabela Simples
 Calculo de Salário entre os funcionários
