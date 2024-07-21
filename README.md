@@ -1,2 +1,3 @@
-# Tabela Simples
-Calculo de Salário,média entre os funcionários e Manipulação de dados.
+# Python Para Data Science
+Manipulando dados com Python
+Estruturas condicionais
